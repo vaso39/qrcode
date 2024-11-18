@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.card {
+    background-color: white;
+    width: 300px;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    
+}
+
+.qr-code img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    background-color: blue;
+}
+
+h1 {
+    font-size: 18px;
+    color: rgba(36, 31, 44, 0.856);
+    margin-bottom: 10px;
+}
+
+p {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18.9px;
+    color: dimgrey;
+}
